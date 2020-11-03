@@ -28,8 +28,8 @@ The first model below is a **PyTorch** model.
 **PyTorch**, as previously stated, is a neural network framework developed and maintained by Facebook. The current trend shows that **PyTorch** and **Tensorflow** share similar interest within websearches, with **PyTorch** pulling slightly ahead. As seen in this image provided by Google Trends: 
 
 <p align="center">
-  <img src="images/pyttf.png" />
-  <img src="images/pyttf_chart.png" />
+  <img src="Images/pyttf.png" />
+  <img src="Images/pyttf_chart.png" />
 </p>
 
 This increase in interest can be attributed to several things, including adoption of **PyTorch** by Silicon Valley front-runners like Tesla. 
