@@ -433,3 +433,33 @@ Healthcare costs are an inevitability. With some think-tanks predicting the grow
 It is imperative that we find ways to decrease the total costs of healthcare that is being shoulder by the individual. Some of the most impactful means of decreasing these costs are by decreasing the need of specialized knowledge in routine activities. As a proof of concept we have built this network to show the possibilities of Neural Networks in the healthcare industry. This will not only free up doctor's time, but it was also allow a faster turn around time if there is an illness which can save lives in some cases.
 
 In the end, we are heavily suggesting that the way of future healthcare is paved with machine learning. Our model could easily be deployed to a cloud solution. A specialized and user friendly front-end can shoulder the burden by allowing the layman to feed in the X-Rays. Finally, we have arrived at the conclusion that one framework was more desirable than another, but in the end that is more or less a matter of preference and willingness to invest resources.
+
+## Directory Map
+```
+CNN Repo
+├───.ipynb_checkpoints
+├───.vscode
+├───Images
+├───models
+│   └───keras_xray
+│       ├───assets
+│       └───variables
+├───runs
+│   └───Nov03_18-08-19_DESKTOP-VJJKO4T
+├───tensorboard
+├───Valid
+├───valid_xray
+├───xraydir
+│   └───xdir
+├───xrays
+│   ├───test
+│   │   ├───NORMAL
+│   │   └───PNEUMONIA
+│   ├───train
+│   │   ├───NORMAL
+│   │   └───PNEUMONIA
+│   └───val
+│       ├───NORMAL
+│       └───PNEUMONIA
+└───__pycache__
+```
