@@ -338,6 +338,7 @@ TensorFlow offers a free service that will allow you to host you TensorBoard exp
 
 [TensorBoard](https://tensorboard.dev/experiment/4zgLN2tXRbWX2agsMM49eA/#scalars&run=.)
 
+## Summary
 
 The [study](https://pubmed.ncbi.nlm.nih.gov/125436/) which showed that a trained radiologist or physician can determine abnormality in a chest x-ray with only a .2 second flash at a 70% true positive rate proves the ability of a highly trained human. Fortunately, in our time we can train computers to perform repetitive, specialized tasks. 
 
