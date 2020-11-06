@@ -44,6 +44,7 @@ However, those approaches differ not only in a software engineering perspective:
 <p align="center">
     <img src="Images/graphmap.gif" />
 </p>
+
 This `gif` is an example of how any neural network model can be displayed as a **directed acyclic graph**.
 
 ### Model Details
@@ -421,4 +422,14 @@ How we were able to achieve this spacial savings:
 
 * Reducing any images that are saved as RGB to single channel Grayscale.
 
+## The Complete Narrative
 
+Healthcare costs are an inevitability. With some think-tanks predicting the growth of year-over-year healthcare costs maintaining *5.5%* growth rate over the next five year. The [Peter G. Peterson Foundation](https://www.pgpf.org/blog/2019/05/healthcare-costs-for-americans-projected-to-grow-at-an-alarmingly-high-rate#:~:text=Healthcare%20Costs%20Continue%20to%20Rise,to%20%246%20trillion%20by%202027.) predicted this rate in 2019, and with the new and ever present danger of the coronavirus and the possibility of global recession to stagnate the GDP growth we are facing a looming healthcare crisis.
+
+<p align='center'>
+    <img src='Images/healthcare.jpg' />
+</p>
+
+It is imperative that we find ways to decrease the total costs of healthcare that is being shoulder by the individual. Some of the most impactful means of decreasing these costs are by decreasing the need of specialized knowledge in routine activities. As a proof of concept we have built this network to show the possibilities of Neural Networks in the healthcare industry. This will not only free up doctor's time, but it was also allow a faster turn around time if there is an illness which can save lives in some cases.
+
+In the end, we are heavily suggesting that the way of future healthcare is paved with machine learning. Our model could easily be deployed to a cloud solution. A specialized and user friendly front-end can shoulder the burden by allowing the layman to feed in the X-Rays. Finally, we have arrived at the conclusion that one framework was more desirable than another, but in the end that is more or less a matter of preference and willingness to invest resources.
